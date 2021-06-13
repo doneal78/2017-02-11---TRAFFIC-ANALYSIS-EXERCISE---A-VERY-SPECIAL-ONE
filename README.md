@@ -1,0 +1,2 @@
+# 2017-02-11---TRAFFIC-ANALYSIS-EXERCISE---A-VERY-SPECIAL-ONE
+Situation #1. Given these sample incident reports, write about what you learned, what you have questions about, what you researched as part of this review, and anything else you feel is relevant. Later in the course, you will be asked to complete an incident report on a given PCAP but this project is meant to mature the exercise of packet analysis and incident reporting
